@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products">
+        <item>kebbe</item>
+        <item>kebbeFried</item>
+        <item>mabroome</item>
+
+    </string-array>
+
+
+
+
+
+</resources>
